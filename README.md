@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning HTML , CSS and JavaScript.
 - 🕸️ I’m looking to collaborate on scraping projects.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sushil-rgb&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-rgb&theme=blue-green)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushil-rgb&show_icons=true&theme=dark)
